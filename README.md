@@ -1,2 +1,1 @@
-# nannugu
-git init test
+Hi!
